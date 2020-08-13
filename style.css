@@ -158,7 +158,8 @@ header .navbar ul li a.active::before{
 
 .Home{
     min-height: 100vh;
-    background-image: url("images/hero/1.jpg");
+    /* background-image: url("images/hero/1.jpg"); */
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("images/hero/1.jpg");
     background-size: cover;
     background-position: center;
     padding: 15px;
@@ -955,23 +956,12 @@ header .brand-name a{
 .Home .Home-content .Block{
     padding-left: 20px;
 }
-
-.about-me{
-    padding: 12px;
-}
-.contact-us .contact-form .text{
-    padding: 0%;
-}
-.text-right{
-    text-align: center;
-}
-
 .portfolio .portfolio-gallery .item{
     flex:0 0 100% ;
     max-width: 100%; 
 }
 .about-me .about-content .text .info .list p{
-  font-size: 12px;
+  
     flex:0 0 100% ;
 }
 }
