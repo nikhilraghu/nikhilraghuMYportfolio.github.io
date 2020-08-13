@@ -960,8 +960,17 @@ header .brand-name a{
     flex:0 0 100% ;
     max-width: 100%; 
 }
+     .about-me{
+    padding: 12px;
+}
+.contact-us .contact-form .text{
+    padding: 0%;
+}
+.text-right{
+    text-align: center;
+}
 .about-me .about-content .text .info .list p{
-  
+  font-size:12px;
     flex:0 0 100% ;
 }
 }
