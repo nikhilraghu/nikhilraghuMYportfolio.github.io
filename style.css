@@ -961,6 +961,7 @@ header .brand-name a{
     max-width: 100%; 
 }
 .about-me{
+     
     padding: 12px;
 }
 .contact-us .contact-form .text{
@@ -970,7 +971,8 @@ header .brand-name a{
     text-align: center;
 }
 .about-me .about-content .text .info .list p{
-  font-size: 12px;
+
+  font-size:12px;
     flex:0 0 100% ;
 }
 }
