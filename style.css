@@ -948,10 +948,10 @@ header .brand-name a{
 
  @media(max-width:500px){
     .Home .Home-content .Block h1{
-        font-size: 30px;
+        font-size: 50px;
 }
 .Home .Home-content .Block h3{
-    font-size: 20px;
+    font-size: 30px;
 }
 .Home .Home-content .Block{
     padding-left: 20px;
