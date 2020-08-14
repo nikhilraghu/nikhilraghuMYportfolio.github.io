@@ -947,14 +947,17 @@ header .brand-name a{
 
 
  @media(max-width:500px){
-    .Home .Home-content .Block h1{
-        font-size: 40px;
+  .Home .Home-content .Block h6 {
+        font-size: 12px;   
+    }
+ .Home .Home-content .Block h1{
+        font-size: 30px;
 }
 .Home .Home-content .Block h3{
-    font-size: 20px;
+    font-size: 19px;
 }
 .Home .Home-content .Block{
-    padding-left: 18px;
+    padding-left: 20px;
 }
 .portfolio .portfolio-gallery .item{
     flex:0 0 100% ;
@@ -967,9 +970,16 @@ header .brand-name a{
 .contact-us .contact-form .text{
     padding: 0%;
 }
-.text-right{
+.message-text h2 {
+    font-size: 19px;
     text-align: center;
 }
+.message-text .button {
+    text-align: center!important;
+    padding-top: 12px;
+
+}
+
 .about-me .about-content .text .info .list p{
 
   font-size:12px;
